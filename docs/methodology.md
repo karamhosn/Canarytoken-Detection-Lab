@@ -129,7 +129,7 @@ wget http://erp.lab.lcl:8080 -Headers $headers
 
 ![Alt text](../screenshots/3.3-2.png)
 
-4. Chrome opens and attempts to reach the canarytokens domain. A message in slack Slack indicates that the token was triggered. The browser may tip off the user that something was captured, but by then, the information has already been sent to the external canary. Additionally, if the canary service is named discreetly (i.e. without the word canary in it), then it may appear to be more of an anomaly to the user.
+4. Chrome opens and attempts to reach the canarytokens domain. A message in Slack indicates that the token was triggered. The browser may tip off the user that something was captured, but by then, the information has already been sent to the external canary. Additionally, if the canary service is named discreetly (i.e. without the word canary in it), then it may appear to be more of an anomaly to the user.
 
 ![Alt text](../screenshots/3.4-1.png)
 
